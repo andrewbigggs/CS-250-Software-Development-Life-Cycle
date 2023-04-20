@@ -10,7 +10,7 @@ dropping vague terms and adverbs like "precisely" in order to conduct more preci
 to enable this style of communication by outlining the "what", "why", "who" and maybe even "where" and "when" of product specifications.
 Then it's up to the developer to create "how" the software accomplishes what it must.
 
-  Agile is all about developing better software through dynamic teamwork and effective communication within development teams, throughout the
-company, and between the company and its product stakeholders.
+  Agile is all about developing better software through dynamic teamwork and effective communication between one another as team members, 
+throughout development teams, across the whole company, and between the company and its product stakeholders.
 
 Andrew Biggs
